@@ -19,4 +19,4 @@ This is a simple web.
 
 Please fork this repository and then issue bla bla.
 
-2017 c.M
+2017 c.M. All righ reserved
