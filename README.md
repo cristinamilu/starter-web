@@ -2,7 +2,8 @@
 
 This is a message.
 This repository is for showing how Git and GitHub work.
-adding a line for rebase example.
+Adding a line for rebase example,
+more changes for myfeature branch too.
 
 ## Purpose
 
