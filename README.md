@@ -15,4 +15,6 @@ This is a simple web.
 
 ## How To Contribute
 
+Please fork this repository and then issue bla bla.
+
 2017 c.M
