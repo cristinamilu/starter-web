@@ -14,3 +14,5 @@ Sample website with plenty of files for demos
 This is a simple web.
 
 ## How To Contribute
+
+2017 c.M
